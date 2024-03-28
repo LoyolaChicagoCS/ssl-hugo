@@ -31,5 +31,5 @@ social:
     link: https://nsynovic.dev
 
 user_groups:
-  - Graduate Students
+  - Ph.D Students
 ---
