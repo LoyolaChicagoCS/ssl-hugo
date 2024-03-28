@@ -14,7 +14,7 @@ role: Ph.D Student at Loyola University Chicago
 
 # Organizations/Affiliations
 organizations:
-  - name: Loyola University Chicago
+  - name: Loyola University University
     url: 'https://luc.edu/'
 
 social:
